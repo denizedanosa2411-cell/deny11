@@ -1,2 +1,2 @@
-function power (a, b) {return 'не реализовано';}
-module.exports = {power};
+function power(a, b) { return Math.pow(a, b); }
+module.exports = { power };
