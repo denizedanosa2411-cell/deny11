@@ -1,2 +1,2 @@
-function add (a, b) {return 'не реализовано';}
-module.exports = {add};
+function add(a, b) { return a + b; }
+module.exports = { add };
